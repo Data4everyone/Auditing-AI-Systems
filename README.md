@@ -8,8 +8,8 @@ This repository contains code and analysis for auditing AI systems, specifically
 
 # Structure
 
-- data/: This directory holds the dataset files. Ensure that the necessary dataset files are placed in this directory before running the code.
-- notebooks/: Jupyter notebooks for interactive analysis and visualization
+- data: This directory holds the dataset files. Ensure that the necessary dataset files are placed in this directory before running the code.
+- notebooks: Jupyter notebooks for interactive analysis and visualization
 - The source code directory contains Python scripts that perform data preprocessing, model training, fairness evaluation, and bias analysis. The main components include:
 - Feature_preprocessing.ipynb
 - Data_and_task_setup.ipynb: Code for cleaning and preparing the dataset.
